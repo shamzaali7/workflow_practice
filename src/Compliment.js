@@ -1,7 +1,7 @@
 import react from ('react')
 
 const compliments = [
-    "Good effort!",
+    "Good effort",
     "What a fine sweater!",
     "I appreciate all of your opinions.",
     "I like your style.",
