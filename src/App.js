@@ -5,7 +5,9 @@ import data from './Compliments';
 function App() {
   return (
     <div className="App">
-      <h1>{data[Math.floor(Math.random * data.length)]}</h1>
+      <h1>
+        Hello!
+      </h1>
     </div>
   );
 }
