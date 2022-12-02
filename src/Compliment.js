@@ -2,7 +2,7 @@ import react from ('react')
 
 const compliments = [
     "Good effort",
-    "What a fine sweater!",
+    "What a fine sweater",
     "I appreciate all of your opinions.",
     "I like your style.",
     "Your T-shirt smells fresh.",
